@@ -28,5 +28,4 @@ The computer randomly chooses its move.
 Winner is calculated and scores are updated instantly.
 
 Press q to quit the game.
-"C:\Users\palla\OneDrive\Documents\Project\RPS gesture.mp4"
-
+!("C:\Users\palla\OneDrive\Documents\Project\RPS gesture.mp4")
