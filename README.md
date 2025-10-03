@@ -1,11 +1,10 @@
 
-https://github.com/user-attachments/assets/996d6c3c-1f06-48a5-b48a-e0614c2ea2b9
-✋ Rock–Paper–Scissors Hand Gesture Game
+✋ **Rock–Paper–Scissors Hand Gesture Game**
 
 🎮 Play Rock–Paper–Scissors with your computer using just your hand gestures!
 Built with Python, OpenCV, and CVZone (MediaPipe), this project lets you compete against the computer in real-time using your webcam.
 
-🚀 Features
+**🚀 Features**
 
 ✊ Rock Detection — Show a fist to play Rock
 
@@ -19,7 +18,7 @@ Built with Python, OpenCV, and CVZone (MediaPipe), this project lets you compete
 
 🎥 Real-time Hand Tracking — Webcam-based gesture detection with landmarks
 
-🛠️ How It Works
+**🛠️ How It Works**
 
 The webcam captures your hand gestures.
 
