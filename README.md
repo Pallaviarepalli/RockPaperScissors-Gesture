@@ -18,7 +18,8 @@ The game uses your webcam to detect hand gestures (Rock, Paper, Scissors) and le
 - Python 
 - OpenCV-for video capture and display  
 - CVZone+Mediapipe-for hand detection  
-- Random 
+- Random
+- ---
 🎮 How to Play
 
 Show one of the following gestures in front of your webcam:
