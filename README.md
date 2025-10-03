@@ -19,12 +19,6 @@ The game uses your webcam to detect hand gestures (Rock, Paper, Scissors) and le
 - OpenCV-for video capture and display  
 - CVZone+Mediapipe-for hand detection  
 - Random 
----
-install dependies:
-pip install opencv-python cvzone mediapipe
----
-Run the game:
-python rps_gesture.py
 🎮 How to Play
 
 Show one of the following gestures in front of your webcam:
