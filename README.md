@@ -1,39 +1,30 @@
-# ✋ Rock–Paper–Scissors Hand Gesture Game  
+✋ Rock–Paper–Scissors Hand Gesture Game
 
-A computer vision–based **Rock-Paper-Scissors** game built with **Python, OpenCV, and CVZone (MediaPipe)**.  
-The game uses your webcam to detect hand gestures (Rock, Paper, Scissors) and lets you play against the computer in real-time.  
+🎮 Play Rock–Paper–Scissors with your computer using just your hand gestures!
+Built with Python, OpenCV, and CVZone (MediaPipe), this project lets you compete against the computer in real-time using your webcam.
 
----
+🚀 Features
 
-📌 Features
-- 🎥 Real-time webcam hand detection using CVZone + MediaPipe  
-- ✊ 🖐️ ✌️ Detects Rock, Paper, Scissors gestures  
-- 💻 Computer makes random moves  
-- 🏆 Keeps track of **Player vs Computer scores**  
-- ⚡ Lightweight and fun game powered by Python  
+✊ Rock Detection — Show a fist to play Rock
 
----
+🖐️ Paper Detection — Show an open palm to play Paper
 
-## 🛠️ Technologies Used
-- Python 
-- OpenCV-for video capture and display  
-- CVZone+Mediapipe-for hand detection  
-- Random
-- ---
-🎮 How to Play
+✌️ Scissors Detection — Show two fingers to play Scissors
 
-Show one of the following gestures in front of your webcam:
+🤖 Computer Opponent — Computer randomly selects its move each round
 
-✊ Rock (closed fist)
+🏆 Scoreboard — Tracks player vs computer scores live on screen
 
-🖐️ Paper (open palm)
+🎥 Real-time Hand Tracking — Webcam-based gesture detection with landmarks
 
-✌️ Scissors (two fingers up)
+🛠️ How It Works
 
-The computer will pick a move randomly.
+The webcam captures your hand gestures.
 
-The result and scores will be displayed on the screen.
+CVZone + MediaPipe detect whether you’re showing Rock, Paper, or Scissors.
 
-Press q to quit the game
+The computer randomly chooses its move.
 
+Winner is calculated and scores are updated instantly.
 
+Press q to quit the game.
