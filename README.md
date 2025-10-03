@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/996d6c3c-1f06-48a5-b48a-e0614c2ea2b9
 ✋ Rock–Paper–Scissors Hand Gesture Game
 
 🎮 Play Rock–Paper–Scissors with your computer using just your hand gestures!
@@ -29,6 +31,8 @@ Winner is calculated and scores are updated instantly.
 
 Press q to quit the game.
 
+
+https://github.com/user-attachments/assets/d1b6ade8-bd99-42ab-b13c-5465a4b01e58
 
 
 
